@@ -1,5 +1,5 @@
 // ===== Edit these two lines =====
-const STORE_URL = 'https://chromewebstore.google.com/search/Floaty%20YouTube%20Pop%20Out%20Player';
+const STORE_URL = 'https://chromewebstore.google.com/detail/nclpjkdfoiglohogcamecgfaodpabkpc';
 const EMAIL = 'adjustpagebrightness@gmail.com';
 // ================================
 document.querySelectorAll('[data-store]').forEach((a) => (a.href = STORE_URL));
